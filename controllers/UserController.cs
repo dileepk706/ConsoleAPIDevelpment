@@ -7,7 +7,7 @@ namespace UserController{
     public class user:ControllerBase{
 
         public string userName(){
-            return "dileepinte andy";
+            return "gi";
         }
     }
 }
